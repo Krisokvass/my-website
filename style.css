@@ -1,5 +1,7 @@
 /* style.css */
 body {
+    background-color: rgba(0, 128, 0, 0.3); /* Полупрозрачный зеленый фон */
+    color: white; /* Цвет текста */
     font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
