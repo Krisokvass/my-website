@@ -1,7 +1,7 @@
 /* style.css */
 body {
-    background-color: rgba(0, 128, 128, 20); /* Полупрозрачный фон */
-    color: blue; /* Цвет текста */
+    background-color: rgba(0, 128, 128, 20);
+    color: blue;
     font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
